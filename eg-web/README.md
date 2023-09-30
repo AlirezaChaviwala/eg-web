@@ -1,3 +1,5 @@
+## EG-web
+
 ## ReactJS application with Sign Up, Sign In and Dashboard screens
 
 ## Security
